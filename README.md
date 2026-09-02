@@ -59,7 +59,7 @@
 
 1. مخزن را کلون کنید:
    ```bash
-   git clone https://github.com/your-username/RandomQuotes.git
+   git clone https://github.com/amindahyat/RandomQuotes.git
    ```
 2. پروژه را در **Visual Studio** (نسخهٔ ۲۰۱۹ یا بالاتر) باز کنید.
 3. مطمئن شوید که فایل‌های داده در مسیر `\DATA\` قرار دارند:
