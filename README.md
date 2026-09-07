@@ -3,7 +3,7 @@
 # معرفی پروژه AdibanPoems
 <p align="center">
   <img src="ScreenShot/1.png" alt="توضیح تصویر" width="700"/>
-  <img src="ScreenShot/2.png" alt="توضیح تصویر" width="700"/>
+  <img src="ScreenShot/3.png" alt="توضیح تصویر" width="700"/>
 </p>
 **AdibanPoems** یک اپلیکیشن دسکتاپ ویندوزی (ساخته شده با #C و Windows Forms) است که دو قابلیت اصلی دارد:
 
